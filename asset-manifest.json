@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/GenTech-API/static/css/main.c315f481.css",
-    "main.js": "/GenTech-API/static/js/main.a16697d6.js",
+    "main.js": "/GenTech-API/static/js/main.a9aa2f5b.js",
     "static/js/787.091a7645.chunk.js": "/GenTech-API/static/js/787.091a7645.chunk.js",
     "static/media/not-found.gif": "/GenTech-API/static/media/not-found.83eb5633bace7390ff79.gif",
     "index.html": "/GenTech-API/index.html",
     "main.c315f481.css.map": "/GenTech-API/static/css/main.c315f481.css.map",
-    "main.a16697d6.js.map": "/GenTech-API/static/js/main.a16697d6.js.map",
+    "main.a9aa2f5b.js.map": "/GenTech-API/static/js/main.a9aa2f5b.js.map",
     "787.091a7645.chunk.js.map": "/GenTech-API/static/js/787.091a7645.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c315f481.css",
-    "static/js/main.a16697d6.js"
+    "static/js/main.a9aa2f5b.js"
   ]
 }
